@@ -1,3 +1,6 @@
-# IntroToMachineLearning
+# Intro To Machine Learning
 
-Presentation from July 6, 2017 on Introduction to Machine Learning
+Click badge below to launch Jupyter notebook.
+
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/jrigelo/Intro_to_Machine_Learning)
